@@ -1,9 +1,9 @@
 ## OLá! Eu sou o Gustavo Alves.
 
-- 💻 Atualmente estou a procura de um estágio.
-- 📚 Estudo as linguagens HTML, CSS e JAVASCRIPT.
-- 📩 Contate-me no email: gustavodelima03@gmail.com
-- 😀 Pronouns: ele/dele.
+- 💻  Atualmente estou a procura de um estágio.
+- 📚  Estudo as linguagens HTML, CSS e JAVASCRIPT.
+- 📩  Contate-me no email: gustavodelima03@gmail.com
+- 😀  Pronouns: ele/dele.
 
 <div>
   <a href="https://github.com/gualvss">
