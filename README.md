@@ -1,6 +1,6 @@
 ## OLá! Eu sou o Gustavo Alves.
 
-- 💻  Atualmente sou estágiario da Construtech.
+- 💻  Em procura de ingressar no mercado de trabalho.
 - 📚  Estudo as linguagens HTML, CSS e JAVASCRIPT.
 - 📩  Contate-me no email: gustavodelima03@gmail.com
 - 😀  Pronouns: ele/dele.
