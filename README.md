@@ -1,7 +1,7 @@
 ## OLá! Eu sou o Gustavo Alves.
 
 - 💻  Grande interesse pela área de desenvolvimento de software.
-- 📚  Estudo as linguagens KOTLIN E PYTHON.
+- 📚  Estudo as linguagens KOTLIN, PYTHON E JS.
 - 📩  Contate-me no email: gustavodelima03@gmail.com
 - 😀  Pronouns: ele/dele.
 
