@@ -1,7 +1,7 @@
 ## OLá! Eu sou o Gustavo Alves.
 
-- 💻  Em procura de ingressar no mercado de trabalho.
-- 📚  Estudo as linguagens HTML, CSS e JAVASCRIPT.
+- 💻  Grande interesse pela área de desenvolvimento de software.
+- 📚  Estudo as linguagens KOTLIN E PYTHON.
 - 📩  Contate-me no email: gustavodelima03@gmail.com
 - 😀  Pronouns: ele/dele.
 
